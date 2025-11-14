@@ -1,0 +1,27 @@
+{
+  "name": "Сладкая клубника",
+  "description": "Сладкая спелая клубника с полей",
+  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/strawberry.jpg",
+  "attributes": [
+    {
+      "trait_type": "Тип фрукта",
+      "value": "Клубника"
+    },
+    {
+      "trait_type": "Сезон",
+      "value": "Лето"
+    },
+    {
+      "trait_type": "Сладость",
+      "value": 9
+    },
+    {
+      "trait_type": "Польза для здоровья",
+      "value": "Высокая"
+    },
+    {
+      "trait_type": "Уровень редкости",
+      "value": "Эпический"
+    }
+  ]
+}
