@@ -1,6 +1,6 @@
 {
   "name": "Сочный Киви",
-  "description": "Свежий сочный киви с насыщенным вкусом и яркой зеленой мякотью",
+  "description": "Свежий сочный киви с насыщенным вкусом и яркой зеленой мякотью | Успешно заминтирован в коллекции TON NFT",
   "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/kiwi.jpeg",
   "attributes": [
     {
@@ -30,6 +30,24 @@
     {
       "trait_type": "Уровень редкости",
       "value": "Редкий"
+    },
+    {
+      "trait_type": "Статус",
+      "value": "Заминтирован"
+    },
+    {
+      "trait_type": "Дата минта",
+      "value": "20.11.2025"
+    },
+    {
+      "trait_type": "Владелец",
+      "value": "EQDI45k2SWYWsjF8Ys2DQnyYJCzqUtThB0K2ReJwq5fPnmXC"
     }
-  ]
+  ],
+  "mint_info": {
+    "minted_at": "2025-11-20 17:17:27",
+    "nft_address": "EQBMG62v5eRH19Ix9PeTMacjfMGCS_4Vr43TgrwcjHFe2E2p",
+    "collection_address": "kQDjRxJDiLFXlWDrBgpGV2Yc80mi64-mALvLjBDRu5XSDXmb",
+    "token_id": 9
+  }
 }
