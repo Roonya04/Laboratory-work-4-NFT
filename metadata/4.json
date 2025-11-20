@@ -1,31 +1,28 @@
 {
-  "name": "Сочный лимон",
-  "description": "Свежий ароматный лимон с цитрусовых плантаций",
-  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/lemon.jpg",
+  "name": "Сочное яблоко",
+  "description": "Свежее сочное яблоко с насыщенным вкусом",
+  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/apple.png",
   "attributes": [
     {
       "trait_type": "Тип фрукта",
-      "value": "Лимон"
+      "value": "Яблоко"
     },
     {
       "trait_type": "Сезон",
-      "value": "Круглый год"
+      "value": "Осень"
     },
     {
-      "trait_type": "Кислотность",
-      "value": 8
+      "trait_type": "Сладость",
+      "value": 7
     },
     {
       "trait_type": "Польза для здоровья",
-      "value": "Очень высокая"
-    },
-    {
-      "trait_type": "Содержание витамина C",
-      "value": "Высокое"
+      "value": "Высокая"
     },
     {
       "trait_type": "Уровень редкости",
-      "value": "Редкий"
+      "value": "Обычный"
     }
   ]
+
 }
