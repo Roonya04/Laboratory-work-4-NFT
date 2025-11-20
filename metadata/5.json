@@ -1,0 +1,28 @@
+{
+  "name": "Сочное яблоко",
+  "description": "Свежее сочное яблоко с насыщенным вкусом",
+  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/apple.png",
+  "attributes": [
+    {
+      "trait_type": "Тип фрукта",
+      "value": "Яблоко"
+    },
+    {
+      "trait_type": "Сезон",
+      "value": "Осень"
+    },
+    {
+      "trait_type": "Сладость",
+      "value": 7
+    },
+    {
+      "trait_type": "Польза для здоровья",
+      "value": "Высокая"
+    },
+    {
+      "trait_type": "Уровень редкости",
+      "value": "Обычный"
+    }
+  ]
+
+}
