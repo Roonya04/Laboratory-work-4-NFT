@@ -1,33 +1,25 @@
 {
-  "name": "Вечный Момент #9",
+  "name": "Цифровая Мечта #9",
   "description": "Уникальное цифровое произведение искусства, созданное в блокчейне TON",
-  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/cat.jpg",
+  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/toxic.jpg",
   "attributes": [
     {
-      "trait_type": "Энергия",
-      "value": "Значение 21"
-    },
-    {
       "trait_type": "Космос",
-      "value": "Значение 22"
+      "value": "Значение 68"
     },
     {
-      "trait_type": "Мощность",
-      "value": "Мощный"
+      "trait_type": "Технология",
+      "value": "Футуристическая"
     },
     {
-      "trait_type": "Редкость",
-      "value": "Обычный"
-    },
-    {
-      "trait_type": "Время",
-      "value": "Значение 49"
+      "trait_type": "Эра",
+      "value": "Древняя"
     },
     {
       "trait_type": "Уровень энергии",
-      "value": 38
+      "value": 95
     }
   ],
   "external_url": "https://github.com/Roonya04/Laboratory-work-4-NFT",
-  "background_color": "e5f1e7"
+  "background_color": "b1ee26"
 }
