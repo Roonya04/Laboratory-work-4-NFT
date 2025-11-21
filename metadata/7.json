@@ -1,29 +1,25 @@
 {
-  "name": "Будущее Настоящее #7",
-  "description": "Редкий коллекционный предмет из цифровой вселенной",
-  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/cash.jpg",
+  "name": "Вечный Момент #7",
+  "description": "Эксклюзивный NFT, представляющий ценность в метавселенной",
+  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/cat.jpg",
   "attributes": [
     {
-      "trait_type": "Природа",
-      "value": "Значение 73"
+      "trait_type": "Технология",
+      "value": "Трансцендентная"
     },
     {
       "trait_type": "Стихия",
-      "value": "Огонь"
+      "value": "Эфир"
     },
     {
-      "trait_type": "Время",
-      "value": "Значение 47"
-    },
-    {
-      "trait_type": "Энергия",
-      "value": "Значение 52"
+      "trait_type": "Природа",
+      "value": "Значение 31"
     },
     {
       "trait_type": "Уровень энергии",
-      "value": 11
+      "value": 90
     }
   ],
   "external_url": "https://github.com/Roonya04/Laboratory-work-4-NFT",
-  "background_color": "2abcbc"
+  "background_color": "59d1e2"
 }
