@@ -1,33 +1,21 @@
 {
-  "name": "Вечный Момент #12",
-  "description": "Эксклюзивный NFT, представляющий ценность в метавселенной",
-  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/cash.jpg",
+  "name": "Виртуальный Сад #12",
+  "description": "Редкий коллекционный предмет из цифровой вселенной",
+  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/toxic.jpg",
   "attributes": [
     {
-      "trait_type": "Природа",
-      "value": "Значение 90"
+      "trait_type": "Стихия",
+      "value": "Вода"
     },
     {
-      "trait_type": "Редкость",
-      "value": "Мифический"
-    },
-    {
-      "trait_type": "Время",
-      "value": "Значение 1"
-    },
-    {
-      "trait_type": "Эра",
-      "value": "Вневременная"
-    },
-    {
-      "trait_type": "Технология",
-      "value": "Футуристическая"
+      "trait_type": "Мощность",
+      "value": "Слабый"
     },
     {
       "trait_type": "Уровень энергии",
-      "value": 29
+      "value": 83
     }
   ],
   "external_url": "https://github.com/Roonya04/Laboratory-work-4-NFT",
-  "background_color": "a06be1"
+  "background_color": "4f1aef"
 }
