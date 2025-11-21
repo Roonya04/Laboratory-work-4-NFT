@@ -1,27 +1,37 @@
 {
-  "name": "Алая вишня",
-  "description": "Ароматная алая вишня, собранная в саду",
-  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/cherry.jpg",
+  "name": "Цифровой Ветер #6",
+  "description": "Редкий коллекционный предмет из цифровой вселенной",
+  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/bird.jpg",
   "attributes": [
     {
-      "trait_type": "Тип фрукта",
-      "value": "Вишня"
+      "trait_type": "Энергия",
+      "value": "Значение 10"
     },
     {
-      "trait_type": "Сезон",
-      "value": "Лето"
+      "trait_type": "Технология",
+      "value": "Футуристическая"
     },
     {
-      "trait_type": "Сладость",
-      "value": 8
+      "trait_type": "Мощность",
+      "value": "Слабый"
     },
     {
-      "trait_type": "Польза для здоровья",
-      "value": "Средняя"
+      "trait_type": "Время",
+      "value": "Значение 4"
     },
     {
-      "trait_type": "Уровень редкости",
-      "value": "Редкий"
+      "trait_type": "Стихия",
+      "value": "Земля"
+    },
+    {
+      "trait_type": "Эра",
+      "value": "Средневековая"
+    },
+    {
+      "trait_type": "Уровень энергии",
+      "value": 58
     }
-  ]
+  ],
+  "external_url": "https://github.com/Roonya04/Laboratory-work-4-NFT",
+  "background_color": "aa16e7"
 }
