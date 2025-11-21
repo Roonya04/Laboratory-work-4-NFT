@@ -1,25 +1,37 @@
 {
-  "name": "Вечный Момент #13",
-  "description": "Коллекционный токен, открывающий новые возможности в Web3",
-  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/toxic.jpg",
+  "name": "Таинственный Артефакт #13",
+  "description": "Эксклюзивный NFT, представляющий ценность в метавселенной",
+  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/cat.jpg",
   "attributes": [
     {
-      "trait_type": "Стихия",
-      "value": "Огонь"
+      "trait_type": "Время",
+      "value": "Значение 40"
     },
     {
-      "trait_type": "Технология",
-      "value": "Передовая"
+      "trait_type": "Космос",
+      "value": "Значение 34"
     },
     {
-      "trait_type": "Магия",
-      "value": "Абсолютная"
+      "trait_type": "Редкость",
+      "value": "Легендарный"
+    },
+    {
+      "trait_type": "Энергия",
+      "value": "Значение 44"
+    },
+    {
+      "trait_type": "Природа",
+      "value": "Значение 80"
+    },
+    {
+      "trait_type": "Мощность",
+      "value": "Средний"
     },
     {
       "trait_type": "Уровень энергии",
-      "value": 50
+      "value": 7
     }
   ],
   "external_url": "https://github.com/Roonya04/Laboratory-work-4-NFT",
-  "background_color": "41c3ce"
+  "background_color": "11a055"
 }
