@@ -1,33 +1,25 @@
 {
-  "name": "Электронная Эмоция #6",
-  "description": "Цифровой актив с уникальными характеристиками и свойствами",
-  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/girl.jpg",
+  "name": "Будущее Настоящее #6",
+  "description": "Эксклюзивный NFT, представляющий ценность в метавселенной",
+  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/cash.jpg",
   "attributes": [
     {
-      "trait_type": "Природа",
-      "value": "Значение 47"
-    },
-    {
-      "trait_type": "Эра",
-      "value": "Современная"
-    },
-    {
-      "trait_type": "Редкость",
-      "value": "Легендарный"
+      "trait_type": "Энергия",
+      "value": "Значение 28"
     },
     {
       "trait_type": "Мощность",
-      "value": "Сильный"
+      "value": "Мощный"
     },
     {
-      "trait_type": "Время",
-      "value": "Значение 60"
+      "trait_type": "Космос",
+      "value": "Значение 76"
     },
     {
       "trait_type": "Уровень энергии",
-      "value": 8
+      "value": 67
     }
   ],
   "external_url": "https://github.com/Roonya04/Laboratory-work-4-NFT",
-  "background_color": "f0ae89"
+  "background_color": "84d25e"
 }
