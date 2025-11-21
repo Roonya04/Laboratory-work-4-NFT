@@ -1,0 +1,23 @@
+{
+  "name": "Уникальный Токен #100",
+  "description": "Эксклюзивный цифровой актив - уникальный экземпляр #100",
+  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/cash.jpg",
+  "attributes": [
+    {
+      "trait_type": "Уровень редкости",
+      "value": "Редкий"
+    },
+    {
+      "trait_type": "Цвет",
+      "value": "Золотой"
+    },
+    {
+      "trait_type": "Серийный номер",
+      "value": 100
+    },
+    {
+      "trait_type": "Дата создания",
+      "value": "2025-11-21 12:20:53"
+    }
+  ]
+}
