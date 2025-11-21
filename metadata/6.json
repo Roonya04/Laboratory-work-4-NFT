@@ -1,25 +1,33 @@
 {
-  "name": "Вечный Момент #6",
-  "description": "Коллекционный токен, открывающий новые возможности в Web3",
-  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/cash.jpg",
+  "name": "Цифровая Мечта #6",
+  "description": "Уникальное цифровое произведение искусства, созданное в блокчейне TON",
+  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/girl.jpg",
   "attributes": [
     {
-      "trait_type": "Стихия",
-      "value": "Огонь"
+      "trait_type": "Редкость",
+      "value": "Редкий"
     },
     {
-      "trait_type": "Мощность",
-      "value": "Средний"
+      "trait_type": "Космос",
+      "value": "Значение 39"
     },
     {
       "trait_type": "Технология",
-      "value": "Футуристическая"
+      "value": "Развитая"
+    },
+    {
+      "trait_type": "Магия",
+      "value": "Без магии"
+    },
+    {
+      "trait_type": "Время",
+      "value": "Значение 78"
     },
     {
       "trait_type": "Уровень энергии",
-      "value": 4
+      "value": 48
     }
   ],
   "external_url": "https://github.com/Roonya04/Laboratory-work-4-NFT",
-  "background_color": "8aa13f"
+  "background_color": "5a28fa"
 }
