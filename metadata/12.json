@@ -1,29 +1,33 @@
 {
-  "name": "Таинственный Артефакт #12",
-  "description": "Редкий коллекционный предмет из цифровой вселенной",
+  "name": "Небесный Код #12",
+  "description": "Коллекционный токен, открывающий новые возможности в Web3",
   "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/toxic.jpg",
   "attributes": [
     {
-      "trait_type": "Эра",
-      "value": "Вневременная"
-    },
-    {
       "trait_type": "Время",
-      "value": "Значение 46"
+      "value": "Значение 35"
     },
     {
       "trait_type": "Мощность",
-      "value": "Мощный"
+      "value": "Сильный"
     },
     {
-      "trait_type": "Редкость",
-      "value": "Эпический"
+      "trait_type": "Стихия",
+      "value": "Эфир"
+    },
+    {
+      "trait_type": "Энергия",
+      "value": "Значение 1"
+    },
+    {
+      "trait_type": "Космос",
+      "value": "Значение 56"
     },
     {
       "trait_type": "Уровень энергии",
-      "value": 67
+      "value": 55
     }
   ],
   "external_url": "https://github.com/Roonya04/Laboratory-work-4-NFT",
-  "background_color": "5414fc"
+  "background_color": "13c56e"
 }
