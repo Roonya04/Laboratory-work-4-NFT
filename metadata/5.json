@@ -1,33 +1,33 @@
 {
-  "name": "Цифровая Мечта #5",
+  "name": "Звездная Пыль #5",
   "description": "Коллекционный токен, открывающий новые возможности в Web3",
-  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/girl.jpg",
+  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/cat.jpg",
   "attributes": [
     {
-      "trait_type": "Эра",
-      "value": "Футуристическая"
-    },
-    {
-      "trait_type": "Природа",
-      "value": "Значение 77"
+      "trait_type": "Стихия",
+      "value": "Земля"
     },
     {
       "trait_type": "Редкость",
-      "value": "Обычный"
+      "value": "Эпический"
     },
     {
       "trait_type": "Магия",
       "value": "Абсолютная"
     },
     {
-      "trait_type": "Стихия",
-      "value": "Земля"
+      "trait_type": "Технология",
+      "value": "Примитивная"
+    },
+    {
+      "trait_type": "Эра",
+      "value": "Древняя"
     },
     {
       "trait_type": "Уровень энергии",
-      "value": 21
+      "value": 71
     }
   ],
   "external_url": "https://github.com/Roonya04/Laboratory-work-4-NFT",
-  "background_color": "246207"
+  "background_color": "a8e26f"
 }
