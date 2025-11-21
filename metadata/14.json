@@ -1,29 +1,37 @@
 {
-  "name": "Виртуальный Сад #14",
-  "description": "Эксклюзивный NFT, представляющий ценность в метавселенной",
-  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/cat.jpg",
+  "name": "Космический Путешественник #14",
+  "description": "Редкий коллекционный предмет из цифровой вселенной",
+  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/girl.jpg",
   "attributes": [
     {
+      "trait_type": "Редкость",
+      "value": "Редкий"
+    },
+    {
       "trait_type": "Технология",
-      "value": "Футуристическая"
+      "value": "Примитивная"
     },
     {
       "trait_type": "Мощность",
-      "value": "Слабый"
+      "value": "Средний"
     },
     {
-      "trait_type": "Редкость",
-      "value": "Обычный"
+      "trait_type": "Космос",
+      "value": "Значение 74"
+    },
+    {
+      "trait_type": "Магия",
+      "value": "Низкая"
     },
     {
       "trait_type": "Время",
-      "value": "Значение 13"
+      "value": "Значение 69"
     },
     {
       "trait_type": "Уровень энергии",
-      "value": 28
+      "value": 32
     }
   ],
   "external_url": "https://github.com/Roonya04/Laboratory-work-4-NFT",
-  "background_color": "432db9"
+  "background_color": "ad222b"
 }
