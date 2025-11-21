@@ -1,33 +1,33 @@
 {
-  "name": "Цифровая Мечта #6",
-  "description": "Уникальное цифровое произведение искусства, созданное в блокчейне TON",
+  "name": "Электронная Эмоция #6",
+  "description": "Цифровой актив с уникальными характеристиками и свойствами",
   "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/girl.jpg",
   "attributes": [
     {
+      "trait_type": "Природа",
+      "value": "Значение 47"
+    },
+    {
+      "trait_type": "Эра",
+      "value": "Современная"
+    },
+    {
       "trait_type": "Редкость",
-      "value": "Редкий"
+      "value": "Легендарный"
     },
     {
-      "trait_type": "Космос",
-      "value": "Значение 39"
-    },
-    {
-      "trait_type": "Технология",
-      "value": "Развитая"
-    },
-    {
-      "trait_type": "Магия",
-      "value": "Без магии"
+      "trait_type": "Мощность",
+      "value": "Сильный"
     },
     {
       "trait_type": "Время",
-      "value": "Значение 78"
+      "value": "Значение 60"
     },
     {
       "trait_type": "Уровень энергии",
-      "value": 48
+      "value": 8
     }
   ],
   "external_url": "https://github.com/Roonya04/Laboratory-work-4-NFT",
-  "background_color": "5a28fa"
+  "background_color": "f0ae89"
 }
