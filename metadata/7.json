@@ -1,33 +1,37 @@
 {
-  "name": "Звездная Пыль #7",
-  "description": "Эксклюзивный NFT, представляющий ценность в метавселенной",
-  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/bird.jpg",
+  "name": "Виртуальный Сад #7",
+  "description": "Коллекционный токен, открывающий новые возможности в Web3",
+  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/toxic.jpg",
   "attributes": [
-    {
-      "trait_type": "Редкость",
-      "value": "Эпический"
-    },
     {
       "trait_type": "Эра",
       "value": "Средневековая"
     },
     {
-      "trait_type": "Энергия",
-      "value": "Значение 98"
+      "trait_type": "Технология",
+      "value": "Трансцендентная"
     },
     {
-      "trait_type": "Стихия",
-      "value": "Огонь"
+      "trait_type": "Магия",
+      "value": "Высокая"
     },
     {
       "trait_type": "Космос",
-      "value": "Значение 54"
+      "value": "Значение 70"
+    },
+    {
+      "trait_type": "Природа",
+      "value": "Значение 74"
+    },
+    {
+      "trait_type": "Редкость",
+      "value": "Эпический"
     },
     {
       "trait_type": "Уровень энергии",
-      "value": 96
+      "value": 100
     }
   ],
   "external_url": "https://github.com/Roonya04/Laboratory-work-4-NFT",
-  "background_color": "7c2aee"
+  "background_color": "40c841"
 }
