@@ -1,39 +1,37 @@
 {
-  "name": "Экзотический Золотой Киви",
-  "description": "Редкий золотой киви с нежным сладким вкусом и солнечной мякотью",
-  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/kiwi.jpeg",
+  "name": "Цифровой Ветер #10",
+  "description": "Уникальное цифровое произведение искусства, созданное в блокчейне TON",
+  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/cat.jpg",
   "attributes": [
     {
-      "trait_type": "Тип фрукта",
-      "value": "Киви"
+      "trait_type": "Редкость",
+      "value": "Эпический"
     },
     {
-      "trait_type": "Сезон",
-      "value": "Круглый год"
+      "trait_type": "Мощность",
+      "value": "Мощный"
     },
     {
-      "trait_type": "Сладость",
-      "value": 9
+      "trait_type": "Технология",
+      "value": "Футуристическая"
     },
     {
-      "trait_type": "Кислотность",
-      "value": 6
+      "trait_type": "Эра",
+      "value": "Вневременная"
     },
     {
-      "trait_type": "Польза для здоровья",
-      "value": "Очень высокая"
+      "trait_type": "Энергия",
+      "value": "Значение 56"
     },
     {
-      "trait_type": "Витамин C",
-      "value": "Богатый"
+      "trait_type": "Магия",
+      "value": "Высокая"
     },
     {
-      "trait_type": "Уровень редкости",
-      "value": "Эксклюзивный"
-    },
-    {
-      "trait_type": "Особенность",
-      "value": "Золотой сорт"
+      "trait_type": "Уровень энергии",
+      "value": 58
     }
-  ]
+  ],
+  "external_url": "https://github.com/Roonya04/Laboratory-work-4-NFT",
+  "background_color": "a63e4a"
 }
