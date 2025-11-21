@@ -1,37 +1,25 @@
 {
   "name": "Космический Путешественник #5",
-  "description": "Цифровой актив с уникальными характеристиками и свойствами",
-  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/girl.jpg",
+  "description": "Эксклюзивный NFT, представляющий ценность в метавселенной",
+  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/cash.jpg",
   "attributes": [
     {
-      "trait_type": "Мощность",
-      "value": "Средний"
-    },
-    {
-      "trait_type": "Технология",
-      "value": "Развитая"
-    },
-    {
-      "trait_type": "Энергия",
-      "value": "Значение 45"
-    },
-    {
-      "trait_type": "Стихия",
-      "value": "Огонь"
+      "trait_type": "Природа",
+      "value": "Значение 28"
     },
     {
       "trait_type": "Время",
-      "value": "Значение 2"
+      "value": "Значение 1"
     },
     {
-      "trait_type": "Эра",
-      "value": "Современная"
+      "trait_type": "Стихия",
+      "value": "Земля"
     },
     {
       "trait_type": "Уровень энергии",
-      "value": 31
+      "value": 90
     }
   ],
   "external_url": "https://github.com/Roonya04/Laboratory-work-4-NFT",
-  "background_color": "7d8501"
+  "background_color": "d12068"
 }
