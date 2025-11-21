@@ -1,33 +1,37 @@
 {
-  "name": "Космический Путешественник #5",
-  "description": "Коллекционный токен, открывающий новые возможности в Web3",
+  "name": "Электронная Эмоция #5",
+  "description": "Уникальное цифровое произведение искусства, созданное в блокчейне TON",
   "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/cat.jpg",
   "attributes": [
     {
-      "trait_type": "Технология",
-      "value": "Развитая"
-    },
-    {
       "trait_type": "Мощность",
-      "value": "Средний"
+      "value": "Слабый"
     },
     {
-      "trait_type": "Космос",
-      "value": "Значение 79"
+      "trait_type": "Энергия",
+      "value": "Значение 65"
     },
     {
-      "trait_type": "Магия",
-      "value": "Высокая"
+      "trait_type": "Стихия",
+      "value": "Воздух"
     },
     {
       "trait_type": "Редкость",
-      "value": "Редкий"
+      "value": "Легендарный"
+    },
+    {
+      "trait_type": "Магия",
+      "value": "Низкая"
+    },
+    {
+      "trait_type": "Время",
+      "value": "Значение 17"
     },
     {
       "trait_type": "Уровень энергии",
-      "value": 10
+      "value": 18
     }
   ],
   "external_url": "https://github.com/Roonya04/Laboratory-work-4-NFT",
-  "background_color": "714335"
+  "background_color": "cd5c96"
 }
