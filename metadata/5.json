@@ -1,28 +1,37 @@
 {
-  "name": "Сочное яблоко",
-  "description": "Свежее сочное яблоко с насыщенным вкусом",
-  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/apple.png",
+  "name": "Космический Путешественник #5",
+  "description": "Цифровой актив с уникальными характеристиками и свойствами",
+  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/girl.jpg",
   "attributes": [
     {
-      "trait_type": "Тип фрукта",
-      "value": "Яблоко"
+      "trait_type": "Мощность",
+      "value": "Средний"
     },
     {
-      "trait_type": "Сезон",
-      "value": "Осень"
+      "trait_type": "Технология",
+      "value": "Развитая"
     },
     {
-      "trait_type": "Сладость",
-      "value": 7
+      "trait_type": "Энергия",
+      "value": "Значение 45"
     },
     {
-      "trait_type": "Польза для здоровья",
-      "value": "Высокая"
+      "trait_type": "Стихия",
+      "value": "Огонь"
     },
     {
-      "trait_type": "Уровень редкости",
-      "value": "Обычный"
+      "trait_type": "Время",
+      "value": "Значение 2"
+    },
+    {
+      "trait_type": "Эра",
+      "value": "Современная"
+    },
+    {
+      "trait_type": "Уровень энергии",
+      "value": 31
     }
-  ]
-
+  ],
+  "external_url": "https://github.com/Roonya04/Laboratory-work-4-NFT",
+  "background_color": "7d8501"
 }
