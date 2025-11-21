@@ -1,25 +1,37 @@
 {
-  "name": "Вечный Момент #7",
-  "description": "Эксклюзивный NFT, представляющий ценность в метавселенной",
-  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/cat.jpg",
+  "name": "Цифровой Ветер #7",
+  "description": "Редкий коллекционный предмет из цифровой вселенной",
+  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/girl.jpg",
   "attributes": [
     {
-      "trait_type": "Технология",
-      "value": "Трансцендентная"
+      "trait_type": "Энергия",
+      "value": "Значение 60"
+    },
+    {
+      "trait_type": "Мощность",
+      "value": "Мощный"
+    },
+    {
+      "trait_type": "Время",
+      "value": "Значение 74"
     },
     {
       "trait_type": "Стихия",
-      "value": "Эфир"
+      "value": "Вода"
     },
     {
-      "trait_type": "Природа",
-      "value": "Значение 31"
+      "trait_type": "Магия",
+      "value": "Без магии"
+    },
+    {
+      "trait_type": "Редкость",
+      "value": "Мифический"
     },
     {
       "trait_type": "Уровень энергии",
-      "value": 90
+      "value": 69
     }
   ],
   "external_url": "https://github.com/Roonya04/Laboratory-work-4-NFT",
-  "background_color": "59d1e2"
+  "background_color": "c25c70"
 }
