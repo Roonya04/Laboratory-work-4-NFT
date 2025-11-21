@@ -1,33 +1,33 @@
 {
-  "name": "Звездная Пыль #5",
+  "name": "Космический Путешественник #5",
   "description": "Коллекционный токен, открывающий новые возможности в Web3",
   "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/cat.jpg",
   "attributes": [
     {
-      "trait_type": "Стихия",
-      "value": "Земля"
+      "trait_type": "Технология",
+      "value": "Развитая"
     },
     {
-      "trait_type": "Редкость",
-      "value": "Эпический"
+      "trait_type": "Мощность",
+      "value": "Средний"
+    },
+    {
+      "trait_type": "Космос",
+      "value": "Значение 79"
     },
     {
       "trait_type": "Магия",
-      "value": "Абсолютная"
+      "value": "Высокая"
     },
     {
-      "trait_type": "Технология",
-      "value": "Примитивная"
-    },
-    {
-      "trait_type": "Эра",
-      "value": "Древняя"
+      "trait_type": "Редкость",
+      "value": "Редкий"
     },
     {
       "trait_type": "Уровень энергии",
-      "value": 71
+      "value": 10
     }
   ],
   "external_url": "https://github.com/Roonya04/Laboratory-work-4-NFT",
-  "background_color": "a8e26f"
+  "background_color": "714335"
 }
