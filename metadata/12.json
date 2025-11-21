@@ -1,0 +1,29 @@
+{
+  "name": "Таинственный Артефакт #12",
+  "description": "Редкий коллекционный предмет из цифровой вселенной",
+  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/toxic.jpg",
+  "attributes": [
+    {
+      "trait_type": "Эра",
+      "value": "Вневременная"
+    },
+    {
+      "trait_type": "Время",
+      "value": "Значение 46"
+    },
+    {
+      "trait_type": "Мощность",
+      "value": "Мощный"
+    },
+    {
+      "trait_type": "Редкость",
+      "value": "Эпический"
+    },
+    {
+      "trait_type": "Уровень энергии",
+      "value": 67
+    }
+  ],
+  "external_url": "https://github.com/Roonya04/Laboratory-work-4-NFT",
+  "background_color": "5414fc"
+}
