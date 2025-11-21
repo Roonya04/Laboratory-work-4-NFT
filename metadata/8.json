@@ -1,25 +1,25 @@
 {
-  "name": "Цифровой Ветер #8",
-  "description": "Уникальное цифровое произведение искусства, созданное в блокчейне TON",
-  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/girl.jpg",
+  "name": "Электронная Эмоция #8",
+  "description": "Эксклюзивный NFT, представляющий ценность в метавселенной",
+  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/cash.jpg",
   "attributes": [
     {
-      "trait_type": "Стихия",
-      "value": "Огонь"
-    },
-    {
-      "trait_type": "Магия",
-      "value": "Средняя"
+      "trait_type": "Время",
+      "value": "Значение 29"
     },
     {
       "trait_type": "Редкость",
       "value": "Обычный"
     },
     {
+      "trait_type": "Стихия",
+      "value": "Воздух"
+    },
+    {
       "trait_type": "Уровень энергии",
-      "value": 76
+      "value": 14
     }
   ],
   "external_url": "https://github.com/Roonya04/Laboratory-work-4-NFT",
-  "background_color": "28dba8"
+  "background_color": "471a16"
 }
