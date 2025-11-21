@@ -1,25 +1,25 @@
 {
-  "name": "Виртуальный Сад #6",
-  "description": "Коллекционный токен, открывающий новые возможности в Web3",
-  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/cash.jpg",
+  "name": "Будущее Настоящее #6",
+  "description": "Цифровой актив с уникальными характеристиками и свойствами",
+  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/girl.jpg",
   "attributes": [
     {
-      "trait_type": "Редкость",
-      "value": "Мифический"
+      "trait_type": "Магия",
+      "value": "Без магии"
     },
     {
-      "trait_type": "Энергия",
-      "value": "Значение 55"
+      "trait_type": "Технология",
+      "value": "Трансцендентная"
     },
     {
-      "trait_type": "Космос",
+      "trait_type": "Время",
       "value": "Значение 58"
     },
     {
       "trait_type": "Уровень энергии",
-      "value": 46
+      "value": 23
     }
   ],
   "external_url": "https://github.com/Roonya04/Laboratory-work-4-NFT",
-  "background_color": "5f3255"
+  "background_color": "d36be5"
 }
