@@ -1,29 +1,33 @@
 {
-  "name": "Космический Путешественник #9",
-  "description": "Редкий коллекционный предмет из цифровой вселенной",
-  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/bird.jpg",
+  "name": "Вечный Момент #9",
+  "description": "Уникальное цифровое произведение искусства, созданное в блокчейне TON",
+  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/cat.jpg",
   "attributes": [
     {
-      "trait_type": "Технология",
-      "value": "Трансцендентная"
-    },
-    {
-      "trait_type": "Магия",
-      "value": "Абсолютная"
-    },
-    {
-      "trait_type": "Стихия",
-      "value": "Огонь"
-    },
-    {
       "trait_type": "Энергия",
-      "value": "Значение 59"
+      "value": "Значение 21"
+    },
+    {
+      "trait_type": "Космос",
+      "value": "Значение 22"
+    },
+    {
+      "trait_type": "Мощность",
+      "value": "Мощный"
+    },
+    {
+      "trait_type": "Редкость",
+      "value": "Обычный"
+    },
+    {
+      "trait_type": "Время",
+      "value": "Значение 49"
     },
     {
       "trait_type": "Уровень энергии",
-      "value": 40
+      "value": 38
     }
   ],
   "external_url": "https://github.com/Roonya04/Laboratory-work-4-NFT",
-  "background_color": "10a746"
+  "background_color": "e5f1e7"
 }
