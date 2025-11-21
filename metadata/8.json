@@ -1,29 +1,25 @@
 {
   "name": "Цифровой Ветер #8",
-  "description": "Редкий коллекционный предмет из цифровой вселенной",
-  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/cash.jpg",
+  "description": "Уникальное цифровое произведение искусства, созданное в блокчейне TON",
+  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/girl.jpg",
   "attributes": [
     {
-      "trait_type": "Технология",
-      "value": "Примитивная"
-    },
-    {
-      "trait_type": "Эра",
-      "value": "Современная"
-    },
-    {
       "trait_type": "Стихия",
-      "value": "Воздух"
+      "value": "Огонь"
     },
     {
-      "trait_type": "Космос",
-      "value": "Значение 68"
+      "trait_type": "Магия",
+      "value": "Средняя"
+    },
+    {
+      "trait_type": "Редкость",
+      "value": "Обычный"
     },
     {
       "trait_type": "Уровень энергии",
-      "value": 34
+      "value": 76
     }
   ],
   "external_url": "https://github.com/Roonya04/Laboratory-work-4-NFT",
-  "background_color": "c28fe0"
+  "background_color": "28dba8"
 }
