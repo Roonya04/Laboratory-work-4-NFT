@@ -1,29 +1,25 @@
 {
-  "name": "Цифровая Мечта #5",
-  "description": "Цифровой актив с уникальными характеристиками и свойствами",
-  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/bird.jpg",
+  "name": "Вечный Момент #5",
+  "description": "Коллекционный токен, открывающий новые возможности в Web3",
+  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/girl.jpg",
   "attributes": [
     {
-      "trait_type": "Магия",
-      "value": "Высокая"
+      "trait_type": "Энергия",
+      "value": "Значение 31"
     },
     {
       "trait_type": "Технология",
-      "value": "Примитивная"
+      "value": "Футуристическая"
     },
     {
-      "trait_type": "Редкость",
-      "value": "Мифический"
-    },
-    {
-      "trait_type": "Природа",
-      "value": "Значение 82"
+      "trait_type": "Мощность",
+      "value": "Сильный"
     },
     {
       "trait_type": "Уровень энергии",
-      "value": 8
+      "value": 21
     }
   ],
   "external_url": "https://github.com/Roonya04/Laboratory-work-4-NFT",
-  "background_color": "191709"
+  "background_color": "a8c5c3"
 }
