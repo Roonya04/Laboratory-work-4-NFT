@@ -1,6 +1,6 @@
 {
-  "name": "Экзотический Золотой Киви",
-  "description": "Редкий золотой киви с нежным сладким вкусом и солнечной мякотью",
+  "name": "Сочный Киви",
+  "description": "Свежий сочный киви с насыщенным вкусом и яркой зеленой мякотью",
   "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/kiwi.jpeg",
   "attributes": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "trait_type": "Сладость",
-      "value": 9
+      "value": 8
     },
     {
       "trait_type": "Кислотность",
@@ -29,11 +29,7 @@
     },
     {
       "trait_type": "Уровень редкости",
-      "value": "Эксклюзивный"
-    },
-    {
-      "trait_type": "Особенность",
-      "value": "Золотой сорт"
+      "value": "Редкий"
     }
   ]
 }
