@@ -1,19 +1,27 @@
 {
-  "name": "Цифровой Ветер #5",
-  "description": "Цифровой актив с уникальными характеристиками и свойствами",
-  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/toxic.jpg",
+  "name": "Космический Путешественник #5",
+  "description": "Эксклюзивный NFT, представляющий ценность в метавселенной",
+  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/girl.jpg",
   "attributes": [
     {
-      "trait_type": "Магия",
-      "value": "Без магии"
-    },
-    {
       "trait_type": "Время",
-      "value": "Значение 61"
+      "value": "Значение 31"
     },
     {
-      "trait_type": "Редкость",
-      "value": "Обычный"
+      "trait_type": "Мощность",
+      "value": "Слабый"
+    },
+    {
+      "trait_type": "Природа",
+      "value": "Значение 85"
+    },
+    {
+      "trait_type": "Энергия",
+      "value": "Значение 96"
+    },
+    {
+      "trait_type": "Технология",
+      "value": "Примитивная"
     },
     {
       "trait_type": "Эра",
@@ -21,9 +29,9 @@
     },
     {
       "trait_type": "Уровень энергии",
-      "value": 65
+      "value": 70
     }
   ],
   "external_url": "https://github.com/Roonya04/Laboratory-work-4-NFT",
-  "background_color": "7f53ae"
+  "background_color": "9bf397"
 }
