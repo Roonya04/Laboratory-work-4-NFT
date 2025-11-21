@@ -1,33 +1,29 @@
 {
-  "name": "Электронная Эмоция #8",
-  "description": "Цифровой актив с уникальными характеристиками и свойствами",
-  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/bird.jpg",
+  "name": "Цифровой Ветер #8",
+  "description": "Редкий коллекционный предмет из цифровой вселенной",
+  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/cash.jpg",
   "attributes": [
     {
-      "trait_type": "Эра",
-      "value": "Средневековая"
+      "trait_type": "Технология",
+      "value": "Примитивная"
     },
     {
-      "trait_type": "Природа",
-      "value": "Значение 14"
+      "trait_type": "Эра",
+      "value": "Современная"
     },
     {
       "trait_type": "Стихия",
-      "value": "Эфир"
+      "value": "Воздух"
     },
     {
-      "trait_type": "Мощность",
-      "value": "Средний"
-    },
-    {
-      "trait_type": "Время",
-      "value": "Значение 30"
+      "trait_type": "Космос",
+      "value": "Значение 68"
     },
     {
       "trait_type": "Уровень энергии",
-      "value": 19
+      "value": 34
     }
   ],
   "external_url": "https://github.com/Roonya04/Laboratory-work-4-NFT",
-  "background_color": "9c8a7a"
+  "background_color": "c28fe0"
 }
