@@ -1,37 +1,29 @@
 {
-  "name": "Космический Путешественник #14",
-  "description": "Редкий коллекционный предмет из цифровой вселенной",
+  "name": "Будущее Настоящее #14",
+  "description": "Эксклюзивный NFT, представляющий ценность в метавселенной",
   "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/girl.jpg",
   "attributes": [
     {
       "trait_type": "Редкость",
-      "value": "Редкий"
+      "value": "Легендарный"
     },
     {
-      "trait_type": "Технология",
-      "value": "Примитивная"
-    },
-    {
-      "trait_type": "Мощность",
-      "value": "Средний"
-    },
-    {
-      "trait_type": "Космос",
-      "value": "Значение 74"
+      "trait_type": "Эра",
+      "value": "Средневековая"
     },
     {
       "trait_type": "Магия",
-      "value": "Низкая"
+      "value": "Без магии"
     },
     {
-      "trait_type": "Время",
-      "value": "Значение 69"
+      "trait_type": "Космос",
+      "value": "Значение 91"
     },
     {
       "trait_type": "Уровень энергии",
-      "value": 32
+      "value": 45
     }
   ],
   "external_url": "https://github.com/Roonya04/Laboratory-work-4-NFT",
-  "background_color": "ad222b"
+  "background_color": "28a299"
 }
