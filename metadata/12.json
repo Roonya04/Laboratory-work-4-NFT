@@ -1,33 +1,33 @@
 {
-  "name": "Небесный Код #12",
-  "description": "Коллекционный токен, открывающий новые возможности в Web3",
-  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/toxic.jpg",
+  "name": "Вечный Момент #12",
+  "description": "Эксклюзивный NFT, представляющий ценность в метавселенной",
+  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/cash.jpg",
   "attributes": [
     {
+      "trait_type": "Природа",
+      "value": "Значение 90"
+    },
+    {
+      "trait_type": "Редкость",
+      "value": "Мифический"
+    },
+    {
       "trait_type": "Время",
-      "value": "Значение 35"
-    },
-    {
-      "trait_type": "Мощность",
-      "value": "Сильный"
-    },
-    {
-      "trait_type": "Стихия",
-      "value": "Эфир"
-    },
-    {
-      "trait_type": "Энергия",
       "value": "Значение 1"
     },
     {
-      "trait_type": "Космос",
-      "value": "Значение 56"
+      "trait_type": "Эра",
+      "value": "Вневременная"
+    },
+    {
+      "trait_type": "Технология",
+      "value": "Футуристическая"
     },
     {
       "trait_type": "Уровень энергии",
-      "value": 55
+      "value": 29
     }
   ],
   "external_url": "https://github.com/Roonya04/Laboratory-work-4-NFT",
-  "background_color": "13c56e"
+  "background_color": "a06be1"
 }
