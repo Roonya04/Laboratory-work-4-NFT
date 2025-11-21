@@ -1,37 +1,33 @@
 {
   "name": "Цифровой Ветер #10",
-  "description": "Уникальное цифровое произведение искусства, созданное в блокчейне TON",
-  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/cat.jpg",
+  "description": "Эксклюзивный NFT, представляющий ценность в метавселенной",
+  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/bird.jpg",
   "attributes": [
     {
       "trait_type": "Редкость",
-      "value": "Эпический"
+      "value": "Мифический"
+    },
+    {
+      "trait_type": "Космос",
+      "value": "Значение 14"
+    },
+    {
+      "trait_type": "Технология",
+      "value": "Трансцендентная"
     },
     {
       "trait_type": "Мощность",
       "value": "Мощный"
     },
     {
-      "trait_type": "Технология",
-      "value": "Футуристическая"
-    },
-    {
-      "trait_type": "Эра",
-      "value": "Вневременная"
-    },
-    {
-      "trait_type": "Энергия",
-      "value": "Значение 56"
-    },
-    {
-      "trait_type": "Магия",
-      "value": "Высокая"
+      "trait_type": "Стихия",
+      "value": "Вода"
     },
     {
       "trait_type": "Уровень энергии",
-      "value": 58
+      "value": 51
     }
   ],
   "external_url": "https://github.com/Roonya04/Laboratory-work-4-NFT",
-  "background_color": "a63e4a"
+  "background_color": "750fa3"
 }
