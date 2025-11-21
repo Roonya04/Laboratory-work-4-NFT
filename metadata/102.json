@@ -1,23 +1,23 @@
 {
-  "name": "Уникальный Токен #102",
-  "description": "Эксклюзивный цифровой актив - уникальный экземпляр #102",
+  "name": "Cash NFT #102",
+  "description": "Редкий NFT с изображением денег - экземпляр #102",
   "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/cash.jpg",
   "attributes": [
     {
-      "trait_type": "Уровень редкости",
+      "trait_type": "Тип",
+      "value": "Деньги"
+    },
+    {
+      "trait_type": "Редкость",
       "value": "Обычный"
     },
     {
-      "trait_type": "Цвет",
-      "value": "Золотой"
-    },
-    {
-      "trait_type": "Серийный номер",
+      "trait_type": "Номер",
       "value": 102
     },
     {
-      "trait_type": "Дата создания",
-      "value": "2025-11-21 12:21:23"
+      "trait_type": "Уникальность",
+      "value": "ID-102"
     }
   ]
 }
