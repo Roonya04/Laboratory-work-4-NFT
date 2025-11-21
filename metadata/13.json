@@ -1,29 +1,25 @@
 {
-  "name": "Космический Путешественник #13",
-  "description": "Цифровой актив с уникальными характеристиками и свойствами",
-  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/cat.jpg",
+  "name": "Вечный Момент #13",
+  "description": "Коллекционный токен, открывающий новые возможности в Web3",
+  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/toxic.jpg",
   "attributes": [
     {
+      "trait_type": "Стихия",
+      "value": "Огонь"
+    },
+    {
+      "trait_type": "Технология",
+      "value": "Передовая"
+    },
+    {
       "trait_type": "Магия",
-      "value": "Низкая"
-    },
-    {
-      "trait_type": "Время",
-      "value": "Значение 20"
-    },
-    {
-      "trait_type": "Энергия",
-      "value": "Значение 5"
-    },
-    {
-      "trait_type": "Мощность",
-      "value": "Средний"
+      "value": "Абсолютная"
     },
     {
       "trait_type": "Уровень энергии",
-      "value": 47
+      "value": 50
     }
   ],
   "external_url": "https://github.com/Roonya04/Laboratory-work-4-NFT",
-  "background_color": "c9f955"
+  "background_color": "41c3ce"
 }
