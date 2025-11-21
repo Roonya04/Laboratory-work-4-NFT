@@ -1,37 +1,33 @@
 {
-  "name": "Виртуальный Сад #7",
-  "description": "Коллекционный токен, открывающий новые возможности в Web3",
-  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/toxic.jpg",
+  "name": "Электронная Эмоция #7",
+  "description": "Редкий коллекционный предмет из цифровой вселенной",
+  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/girl.jpg",
   "attributes": [
     {
-      "trait_type": "Эра",
-      "value": "Средневековая"
+      "trait_type": "Редкость",
+      "value": "Легендарный"
+    },
+    {
+      "trait_type": "Энергия",
+      "value": "Значение 60"
+    },
+    {
+      "trait_type": "Время",
+      "value": "Значение 85"
     },
     {
       "trait_type": "Технология",
-      "value": "Трансцендентная"
+      "value": "Примитивная"
     },
     {
-      "trait_type": "Магия",
-      "value": "Высокая"
-    },
-    {
-      "trait_type": "Космос",
-      "value": "Значение 70"
-    },
-    {
-      "trait_type": "Природа",
-      "value": "Значение 74"
-    },
-    {
-      "trait_type": "Редкость",
-      "value": "Эпический"
+      "trait_type": "Эра",
+      "value": "Древняя"
     },
     {
       "trait_type": "Уровень энергии",
-      "value": 100
+      "value": 53
     }
   ],
   "external_url": "https://github.com/Roonya04/Laboratory-work-4-NFT",
-  "background_color": "40c841"
+  "background_color": "a8f485"
 }
