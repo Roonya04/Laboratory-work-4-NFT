@@ -1,21 +1,25 @@
 {
-  "name": "Виртуальный Сад #12",
-  "description": "Редкий коллекционный предмет из цифровой вселенной",
-  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/toxic.jpg",
+  "name": "Будущее Настоящее #12",
+  "description": "Коллекционный токен, открывающий новые возможности в Web3",
+  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/girl.jpg",
   "attributes": [
     {
       "trait_type": "Стихия",
-      "value": "Вода"
+      "value": "Воздух"
     },
     {
-      "trait_type": "Мощность",
-      "value": "Слабый"
+      "trait_type": "Природа",
+      "value": "Значение 41"
+    },
+    {
+      "trait_type": "Магия",
+      "value": "Низкая"
     },
     {
       "trait_type": "Уровень энергии",
-      "value": 83
+      "value": 88
     }
   ],
   "external_url": "https://github.com/Roonya04/Laboratory-work-4-NFT",
-  "background_color": "4f1aef"
+  "background_color": "2ac345"
 }
