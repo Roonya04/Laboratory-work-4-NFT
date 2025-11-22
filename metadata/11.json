@@ -1,21 +1,37 @@
 {
-  "name": "Виртуальный Сад #11",
+  "name": "Звездная Пыль #11",
   "description": "Эксклюзивный NFT, представляющий ценность в метавселенной",
-  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/bird.jpg",
+  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/toxic.jpg",
   "attributes": [
     {
-      "trait_type": "Эра",
-      "value": "Древняя"
+      "trait_type": "Космос",
+      "value": "Значение 63"
+    },
+    {
+      "trait_type": "Магия",
+      "value": "Без магии"
+    },
+    {
+      "trait_type": "Мощность",
+      "value": "Всесильный"
     },
     {
       "trait_type": "Редкость",
-      "value": "Эпический"
+      "value": "Легендарный"
+    },
+    {
+      "trait_type": "Стихия",
+      "value": "Земля"
+    },
+    {
+      "trait_type": "Эра",
+      "value": "Современная"
     },
     {
       "trait_type": "Уровень энергии",
-      "value": 77
+      "value": 23
     }
   ],
   "external_url": "https://github.com/Roonya04/Laboratory-work-4-NFT",
-  "background_color": "4ebc96"
+  "background_color": "d7ec8b"
 }
