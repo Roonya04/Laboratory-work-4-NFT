@@ -1,25 +1,33 @@
 {
-  "name": "Цифровая Мечта #13",
+  "name": "Вечный Момент #13",
   "description": "Редкий коллекционный предмет из цифровой вселенной",
   "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/bird.jpg",
   "attributes": [
     {
-      "trait_type": "Редкость",
-      "value": "Редкий"
+      "trait_type": "Время",
+      "value": "Значение 8"
     },
     {
       "trait_type": "Стихия",
-      "value": "Земля"
+      "value": "Огонь"
     },
     {
       "trait_type": "Эра",
-      "value": "Современная"
+      "value": "Вневременная"
+    },
+    {
+      "trait_type": "Магия",
+      "value": "Средняя"
+    },
+    {
+      "trait_type": "Космос",
+      "value": "Значение 83"
     },
     {
       "trait_type": "Уровень энергии",
-      "value": 54
+      "value": 43
     }
   ],
   "external_url": "https://github.com/Roonya04/Laboratory-work-4-NFT",
-  "background_color": "e27387"
+  "background_color": "c2b5e8"
 }
