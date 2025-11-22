@@ -1,25 +1,29 @@
 {
-  "name": "Электронная Эмоция #8",
-  "description": "Эксклюзивный NFT, представляющий ценность в метавселенной",
-  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/cash.jpg",
+  "name": "Виртуальный Сад #8",
+  "description": "Цифровой актив с уникальными характеристиками и свойствами",
+  "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-work-4-NFT/main/image/toxic.jpg",
   "attributes": [
     {
-      "trait_type": "Время",
-      "value": "Значение 29"
-    },
-    {
-      "trait_type": "Редкость",
-      "value": "Обычный"
-    },
-    {
       "trait_type": "Стихия",
-      "value": "Воздух"
+      "value": "Земля"
+    },
+    {
+      "trait_type": "Эра",
+      "value": "Средневековая"
+    },
+    {
+      "trait_type": "Космос",
+      "value": "Значение 90"
+    },
+    {
+      "trait_type": "Магия",
+      "value": "Высокая"
     },
     {
       "trait_type": "Уровень энергии",
-      "value": 14
+      "value": 59
     }
   ],
   "external_url": "https://github.com/Roonya04/Laboratory-work-4-NFT",
-  "background_color": "471a16"
+  "background_color": "78e495"
 }
